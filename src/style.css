@@ -1,1 +1,31 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: green;
+}
+
+.card {
+  background-color: white;
+  width: 400px;
+  height: 600px;
+}
+
+.♥ {
+  color: red;
+  font-size: 120px;
+}
+
+.♦ {
+  color: red;
+  font-size: 120px;
+}
+
+.♣ {
+  font-size: 120px;
+}
+
+.♠ {
+  font-size: 120px;
+}
+
+.text-center {
+  font-size: 150px;
+}
